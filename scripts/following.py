@@ -1,11 +1,11 @@
-from scripts.config_lmdisch import *
+from scripts.config_zlisto import *
 from multiprocessing import cpu_count, Pool
 from selenium import webdriver
 from time import sleep
 from typing import *
 import pandas as pd
 
-__author__ = 'lmdisch'
+__author__ = 'zlisto'
 
 results = []
 
