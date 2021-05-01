@@ -3,10 +3,10 @@ USER = 'lmdisch'
 PASSWORD = '6FfwnoRn4TgJUrP'
 
 #Twitter API Credentials
-APP_KEY	= 'F8Ornv1s0lus0fWhwwJdq3e0f'	
-APP_SECRET	= 'gSP1fW8YkFH2zVRvzak91EThOiD5sc7VEmCYeao1D8Qrb2krK2'	
-OAUTH_TOKEN	= '1260056478859264006-GAcyXDABFgaTdl1oda5koVbvq9Sje4'	
-OAUTH_TOKEN_SECRET= 'COstqVqZgMMoEjm4Hugi3WB7IumyhpIGEW8jF6sLjTAGx'	
+APP_KEY	= ''	
+APP_SECRET	= ''	
+OAUTH_TOKEN	= ''	
+OAUTH_TOKEN_SECRET= 
 
 
 # Paths
